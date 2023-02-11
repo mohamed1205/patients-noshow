@@ -21,8 +21,3 @@ whether or not the patient is
 enrolled in Brasilian welfare
 program Bolsa Família.
 
-● Be careful about the encoding
-of the last column: it says ‘No’ if
-the patient showed up to their
-appointment, and ‘Yes’ if they
-did not show up.
